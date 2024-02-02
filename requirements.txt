@@ -8,3 +8,9 @@ numpy
 tensorflow
 streamlit
 gunicorn
+keras
+Keras-Application
+Keras-Preprocessing
+h5py
+tensorflow-estimator
+tensorboard
